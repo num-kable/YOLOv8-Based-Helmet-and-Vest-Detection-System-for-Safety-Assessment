@@ -4,10 +4,10 @@ YOLOv8-s, a compact and fast object detection model, achieved 99.5% mAP accuracy
 # Weight files
 https://drive.google.com/drive/u/0/folders/124PF_zaen8PlA_mbUfb1xkmy6lYz1Vj-
 
-# Installation
-Install the project
- git clone https://github.com/DivyankaThakur03/helmet_vest_yolov8.git
-  cd helmet_vest_yolov8
+ # Screenshots
+ 
+
+ 
 
 
  
